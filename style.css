@@ -1,0 +1,309 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  :root {
+    --primary-color: #e10600;
+    --secondary-color: #15151e;
+    --text-light: #ffffff;
+    --text-dark: #333333;
+    --bg-gradient: linear-gradient(180deg, #15151e, #1f1b2e);
+    --card-bg: rgba(255, 255, 255, 0.92);
+    --accent-blue: #0046ff;
+    --accent-red: #e10600;
+  }
+  
+  body {
+    font-family: 'Titillium Web', sans-serif;
+    background: var(--bg-gradient);
+    color: var(--text-light);
+    line-height: 1.6;
+    min-height: 100vh;
+    padding-bottom: 40px;
+  }
+  
+  .header {
+    background: var(--secondary-color);
+    padding: 15px 0;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.3);
+    position: sticky;
+    top: 0;
+    z-index: 100;
+  }
+  
+  .container {
+    width: 92%;
+    max-width: 960px;
+    margin: 0 auto;
+    padding: 15px 0;
+  }
+  
+  h1 {
+    font-size: 1.8rem;
+    color: var(--primary-color);
+    margin-bottom: 5px;
+    font-weight: 700;
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+  }
+  
+  .selection-container {
+    background: rgba(21, 21, 30, 0.8);
+    border-radius: 12px;
+    padding: 20px;
+    margin: 15px 0;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  }
+  
+  .select-wrapper {
+    position: relative;
+    margin-bottom: 15px;
+  }
+  
+  .select-wrapper:last-child {
+    margin-bottom: 0;
+  }
+  
+  label {
+    display: block;
+    color: var(--text-light);
+    margin-bottom: 8px;
+    font-weight: 600;
+    font-size: 0.9rem;
+  }
+  
+  select {
+    width: 100%;
+    padding: 12px 16px;
+    border: 2px solid rgba(255, 255, 255, 0.2);
+    border-radius: 8px;
+    background-color: rgba(30, 30, 45, 0.9);
+    font-size: 1rem;
+    color: var(--text-light);
+    appearance: none;
+    cursor: pointer;
+    font-family: 'Titillium Web', sans-serif;
+  }
+  
+  .select-wrapper::after {
+    content: '';
+    position: absolute;
+    right: 15px;
+    top: 60%;
+    width: 10px;
+    height: 10px;
+    border-bottom: 2px solid var(--text-light);
+    border-right: 2px solid var(--text-light);
+    transform: translateY(-50%) rotate(45deg);
+    pointer-events: none;
+  }
+  
+  .setup-category {
+    margin-bottom: 20px;
+  }
+  
+  .category-header {
+    background: var(--primary-color);
+    color: var(--text-light);
+    padding: 10px 15px;
+    border-radius: 8px 8px 0 0;
+    font-size: 1.1rem;
+    font-weight: 600;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    cursor: pointer;
+  }
+  
+  .category-header::after {
+    content: '';
+    width: 10px;
+    height: 10px;
+    border-bottom: 2px solid var(--text-light);
+    border-right: 2px solid var(--text-light);
+    transform: rotate(45deg);
+    transition: transform 0.3s ease;
+  }
+  
+  .category-header.active::after {
+    transform: rotate(-135deg);
+  }
+  
+  .setup-items {
+    background: var(--card-bg);
+    border-radius: 0 0 8px 8px;
+    overflow: hidden;
+    transition: max-height 0.3s ease;
+    max-height: 0;
+  }
+  
+  .setup-items.active {
+    max-height: 1000px;
+  }
+  
+  .setup-item {
+    display: flex;
+    justify-content: space-between;
+    padding: 12px 15px;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.1);
+    color: var(--text-dark);
+  }
+  
+  .setup-item:last-child {
+    border-bottom: none;
+  }
+  
+  .setup-name {
+    font-weight: 400;
+    font-size: 0.95rem;
+  }
+  
+  .setup-value {
+    font-weight: 700;
+    font-size: 0.95rem;
+    color: var(--accent-blue);
+  }
+  
+  .mode-toggle {
+    display: flex;
+    border-radius: 8px;
+    overflow: hidden;
+    margin: 15px 0;
+    background: rgba(30, 30, 45, 0.8);
+    border: 1px solid rgba(255, 255, 255, 0.1);
+  }
+  
+  .mode-btn {
+    flex: 1;
+    padding: 10px;
+    text-align: center;
+    background: none;
+    border: none;
+    color: var(--text-light);
+    cursor: pointer;
+    font-family: 'Titillium Web', sans-serif;
+    font-weight: 600;
+    font-size: 0.9rem;
+    transition: background-color 0.3s ease;
+  }
+  
+  .mode-btn.active {
+    background-color: var(--primary-color);
+  }
+  
+  .no-selection {
+    text-align: center;
+    padding: 30px 0;
+    color: rgba(255, 255, 255, 0.7);
+    font-style: italic;
+  }
+  
+  .loading {
+    text-align: center;
+    padding: 20px;
+    color: var(--text-light);
+  }
+  
+  @keyframes spin {
+    to { transform: rotate(360deg); }
+  }
+  
+  .loading::before {
+    content: '';
+    display: inline-block;
+    width: 20px;
+    height: 20px;
+    border: 3px solid rgba(255, 255, 255, 0.3);
+    border-radius: 50%;
+    border-top-color: var(--primary-color);
+    animation: spin 1s linear infinite;
+    margin-right: 10px;
+    vertical-align: middle;
+  }
+
+  /* Ajouter au fichier style.css existant */
+
+.guest-message {
+    background: rgba(21, 21, 30, 0.8);
+    border-radius: 12px;
+    padding: 20px;
+    margin: 15px 0;
+    text-align: center;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  }
+  
+  .guest-message p {
+    margin-bottom: 15px;
+    color: var(--text-light);
+  }
+  
+  .guest-message .btn-primary {
+    display: inline-block;
+    text-decoration: none;
+  }
+  
+  .toast {
+    position: fixed;
+    bottom: 20px;
+    left: 50%;
+    transform: translateX(-50%) translateY(100px);
+    background-color: #4caf50;
+    color: white;
+    padding: 12px 24px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    z-index: 1000;
+    opacity: 0;
+    transition: transform 0.3s, opacity 0.3s;
+  }
+  
+  .toast.show {
+    transform: translateX(-50%) translateY(0);
+    opacity: 1;
+  }
+  
+  /* Améliorations pour les réglages personnalisés */
+  .setup-value {
+    position: relative;
+  }
+  
+  .setup-value::after {
+    content: '';
+    position: absolute;
+    bottom: -2px;
+    left: 0;
+    width: 0;
+    height: 2px;
+    background-color: var(--accent-blue);
+    transition: width 0.3s ease;
+  }
+  
+  .setup-item:hover .setup-value::after {
+    width: 100%;
+  }
+  
+  /* Indication des valeurs personnalisées */
+  
+  @media (min-width: 768px) {
+    h1 {
+      font-size: 2.2rem;
+    }
+  
+    .selection-container {
+      display: flex;
+      align-items: center;
+      gap: 20px;
+    }
+  
+    .select-wrapper {
+      flex: 1;
+      margin-bottom: 0;
+    }
+  
+    .mode-toggle {
+      flex: 0.7;
+    }
+  }

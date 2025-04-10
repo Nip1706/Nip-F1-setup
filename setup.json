@@ -1,0 +1,1750 @@
+{
+    "1": {
+      "circuit": "Bahrain International Circuit",
+      "country": "Bahrain",
+      "countryCode": "bh",
+      "flagFileName": "bh.webp",
+      "settings": {
+        "course": {
+          "Aéro": {
+            "Aileron avant": 36,
+            "Aileron arrière": 30
+          },
+          "Transmission": {
+            "Différentiel d’accélération": 58,
+            "Différentiel de freinage": 52
+          },
+          "Géométrie": {
+            "Carrossage avant": -2.50,
+            "Carrossage arrière": -1.00,
+            "Ouverture avant": 0.08,
+            "Pincement arrière": 0.22
+          },
+          "Suspension": {
+            "Suspension avant": 22,
+            "Suspension arrière": 8,
+            "Barre anti-roulis avant": 4,
+            "Barre anti-roulis arrière": 2,
+            "Hauteur de caisse avant": 32,
+            "Hauteur de caisse arrière": 36
+          },
+          "Freins": {
+            "Pressions des freins": "96 %",
+            "Équilibrage des freins": "53 %"
+          },
+          "Pneus": {
+            "Pressions pneu avant droit": 22.7,
+            "Pressions pneu avant gauche": 22.7,
+            "Pressions pneu arrière droit": 20.4,
+            "Pressions pneu arrière gauche": 20.4
+          }
+        },
+        "qualification": {
+          "Aéro": {
+            "Aileron avant": 40,
+            "Aileron arrière": 34
+          },
+          "Transmission": {
+            "Différentiel d’accélération": 62,
+            "Différentiel de freinage": 56
+          },
+          "Géométrie": {
+            "Carrossage avant": -2.70,
+            "Carrossage arrière": -1.20,
+            "Ouverture avant": 0.06,
+            "Pincement arrière": 0.20
+          },
+          "Suspension": {
+            "Suspension avant": 24,
+            "Suspension arrière": 9,
+            "Barre anti-roulis avant": 5,
+            "Barre anti-roulis arrière": 2,
+            "Hauteur de caisse avant": 30,
+            "Hauteur de caisse arrière": 34
+          },
+          "Freins": {
+            "Pressions des freins": "98 %",
+            "Équilibrage des freins": "54 %"
+          },
+          "Pneus": {
+            "Pressions pneu avant droit": 23.0,
+            "Pressions pneu avant gauche": 23.0,
+            "Pressions pneu arrière droit": 20.6,
+            "Pressions pneu arrière gauche": 20.6
+          }
+        }
+      }
+    },
+    "2": {
+      "circuit": "Jeddah Street Circuit",
+      "country": "Saudi Arabia",
+      "countryCode": "sa",
+      "flagFileName": "sa.webp",
+      "settings": {
+        "course": {
+          "Aéro": {
+            "Aileron avant": 32,
+            "Aileron arrière": 26
+          },
+          "Transmission": {
+            "Différentiel d’accélération": 72,
+            "Différentiel de freinage": 60
+          },
+          "Géométrie": {
+            "Carrossage avant": -2.60,
+            "Carrossage arrière": -1.15,
+            "Ouverture avant": 0.04,
+            "Pincement arrière": 0.18
+          },
+          "Suspension": {
+            "Suspension avant": 18,
+            "Suspension arrière": 6,
+            "Barre anti-roulis avant": 3,
+            "Barre anti-roulis arrière": 1,
+            "Hauteur de caisse avant": 28,
+            "Hauteur de caisse arrière": 32
+          },
+          "Freins": {
+            "Pressions des freins": "94 %",
+            "Équilibrage des freins": "52 %"
+          },
+          "Pneus": {
+            "Pressions pneu avant droit": 22.8,
+            "Pressions pneu avant gauche": 22.8,
+            "Pressions pneu arrière droit": 20.5,
+            "Pressions pneu arrière gauche": 20.5
+          }
+        },
+        "qualification": {
+          "Aéro": {
+            "Aileron avant": 36,
+            "Aileron arrière": 30
+          },
+          "Transmission": {
+            "Différentiel d’accélération": 76,
+            "Différentiel de freinage": 64
+          },
+          "Géométrie": {
+            "Carrossage avant": -2.80,
+            "Carrossage arrière": -1.30,
+            "Ouverture avant": 0.02,
+            "Pincement arrière": 0.16
+          },
+          "Suspension": {
+            "Suspension avant": 20,
+            "Suspension arrière": 7,
+            "Barre anti-roulis avant": 4,
+            "Barre anti-roulis arrière": 1,
+            "Hauteur de caisse avant": 26,
+            "Hauteur de caisse arrière": 30
+          },
+          "Freins": {
+            "Pressions des freins": "97 %",
+            "Équilibrage des freins": "53 %"
+          },
+          "Pneus": {
+            "Pressions pneu avant droit": 23.1,
+            "Pressions pneu avant gauche": 23.1,
+            "Pressions pneu arrière droit": 20.7,
+            "Pressions pneu arrière gauche": 20.7
+          }
+        }
+      }
+    },
+    "3": {
+      "circuit": "Albert Park Circuit",
+      "country": "Australia",
+      "countryCode": "au",
+      "flagFileName": "au.jpg",
+      "settings": {
+        "course": {
+          "Aéro": {
+            "Aileron avant": 38,
+            "Aileron arrière": 32
+          },
+          "Transmission": {
+            "Différentiel d’accélération": 60,
+            "Différentiel de freinage": 55
+          },
+          "Géométrie": {
+            "Carrossage avant": -2.40,
+            "Carrossage arrière": -1.05,
+            "Ouverture avant": 0.07,
+            "Pincement arrière": 0.21
+          },
+          "Suspension": {
+            "Suspension avant": 23,
+            "Suspension arrière": 9,
+            "Barre anti-roulis avant": 5,
+            "Barre anti-roulis arrière": 2,
+            "Hauteur de caisse avant": 33,
+            "Hauteur de caisse arrière": 37
+          },
+          "Freins": {
+            "Pressions des freins": "95 %",
+            "Équilibrage des freins": "54 %"
+          },
+          "Pneus": {
+            "Pressions pneu avant droit": 22.6,
+            "Pressions pneu avant gauche": 22.6,
+            "Pressions pneu arrière droit": 20.3,
+            "Pressions pneu arrière gauche": 20.3
+          }
+        },
+        "qualification": {
+          "Aéro": {
+            "Aileron avant": 42,
+            "Aileron arrière": 36
+          },
+          "Transmission": {
+            "Différentiel d’accélération": 64,
+            "Différentiel de freinage": 59
+          },
+          "Géométrie": {
+            "Carrossage avant": -2.60,
+            "Carrossage arrière": -1.20,
+            "Ouverture avant": 0.05,
+            "Pincement arrière": 0.19
+          },
+          "Suspension": {
+            "Suspension avant": 25,
+            "Suspension arrière": 10,
+            "Barre anti-roulis avant": 6,
+            "Barre anti-roulis arrière": 2,
+            "Hauteur de caisse avant": 31,
+            "Hauteur de caisse arrière": 35
+          },
+          "Freins": {
+            "Pressions des freins": "97 %",
+            "Équilibrage des freins": "55 %"
+          },
+          "Pneus": {
+            "Pressions pneu avant droit": 22.9,
+            "Pressions pneu avant gauche": 22.9,
+            "Pressions pneu arrière droit": 20.5,
+            "Pressions pneu arrière gauche": 20.5
+          }
+        }
+      }
+    },
+    "4": {
+      "circuit": "Baku City Circuit",
+      "country": "Azerbaijan",
+      "countryCode": "az",
+      "flagFileName": "az.png",
+      "settings": {
+        "course": {
+          "Aéro": {
+            "Aileron avant": 26,
+            "Aileron arrière": 20
+          },
+          "Transmission": {
+            "Différentiel d’accélération": 78,
+            "Différentiel de freinage": 68
+          },
+          "Géométrie": {
+            "Carrossage avant": -2.80,
+            "Carrossage arrière": -1.35,
+            "Ouverture avant": 0.03,
+            "Pincement arrière": 0.17
+          },
+          "Suspension": {
+            "Suspension avant": 17,
+            "Suspension arrière": 5,
+            "Barre anti-roulis avant": 2,
+            "Barre anti-roulis arrière": 1,
+            "Hauteur de caisse avant": 27,
+            "Hauteur de caisse arrière": 31
+          },
+          "Freins": {
+            "Pressions des freins": "93 %",
+            "Équilibrage des freins": "51 %"
+          },
+          "Pneus": {
+            "Pressions pneu avant droit": 23.0,
+            "Pressions pneu avant gauche": 23.0,
+            "Pressions pneu arrière droit": 20.7,
+            "Pressions pneu arrière gauche": 20.7
+          }
+        },
+        "qualification": {
+          "Aéro": {
+            "Aileron avant": 30,
+            "Aileron arrière": 24
+          },
+          "Transmission": {
+            "Différentiel d’accélération": 82,
+            "Différentiel de freinage": 72
+          },
+          "Géométrie": {
+            "Carrossage avant": -3.00,
+            "Carrossage arrière": -1.50,
+            "Ouverture avant": 0.01,
+            "Pincement arrière": 0.15
+          },
+          "Suspension": {
+            "Suspension avant": 19,
+            "Suspension arrière": 6,
+            "Barre anti-roulis avant": 3,
+            "Barre anti-roulis arrière": 1,
+            "Hauteur de caisse avant": 25,
+            "Hauteur de caisse arrière": 29
+          },
+          "Freins": {
+            "Pressions des freins": "96 %",
+            "Équilibrage des freins": "52 %"
+          },
+          "Pneus": {
+            "Pressions pneu avant droit": 23.3,
+            "Pressions pneu avant gauche": 23.3,
+            "Pressions pneu arrière droit": 20.9,
+            "Pressions pneu arrière gauche": 20.9
+          }
+        }
+      }
+    },
+    "5": {
+      "circuit": "Miami International Autodrome",
+      "country": "United States",
+      "countryCode": "us",
+      "flagFileName": "usa.png",
+      "settings": {
+        "course": {
+          "Aéro": {
+            "Aileron avant": 34,
+            "Aileron arrière": 28
+          },
+          "Transmission": {
+            "Différentiel d’accélération": 68,
+            "Différentiel de freinage": 58
+          },
+          "Géométrie": {
+            "Carrossage avant": -2.55,
+            "Carrossage arrière": -1.10,
+            "Ouverture avant": 0.06,
+            "Pincement arrière": 0.20
+          },
+          "Suspension": {
+            "Suspension avant": 21,
+            "Suspension arrière": 7,
+            "Barre anti-roulis avant": 4,
+            "Barre anti-roulis arrière": 2,
+            "Hauteur de caisse avant": 31,
+            "Hauteur de caisse arrière": 35
+          },
+          "Freins": {
+            "Pressions des freins": "94 %",
+            "Équilibrage des freins": "53 %"
+          },
+          "Pneus": {
+            "Pressions pneu avant droit": 22.9,
+            "Pressions pneu avant gauche": 22.9,
+            "Pressions pneu arrière droit": 20.6,
+            "Pressions pneu arrière gauche": 20.6
+          }
+        },
+        "qualification": {
+          "Aéro": {
+            "Aileron avant": 38,
+            "Aileron arrière": 32
+          },
+          "Transmission": {
+            "Différentiel d’accélération": 72,
+            "Différentiel de freinage": 62
+          },
+          "Géométrie": {
+            "Carrossage avant": -2.75,
+            "Carrossage arrière": -1.25,
+            "Ouverture avant": 0.04,
+            "Pincement arrière": 0.18
+          },
+          "Suspension": {
+            "Suspension avant": 23,
+            "Suspension arrière": 8,
+            "Barre anti-roulis avant": 5,
+            "Barre anti-roulis arrière": 2,
+            "Hauteur de caisse avant": 29,
+            "Hauteur de caisse arrière": 33
+          },
+          "Freins": {
+            "Pressions des freins": "97 %",
+            "Équilibrage des freins": "54 %"
+          },
+          "Pneus": {
+            "Pressions pneu avant droit": 23.2,
+            "Pressions pneu avant gauche": 23.2,
+            "Pressions pneu arrière droit": 20.8,
+            "Pressions pneu arrière gauche": 20.8
+          }
+        }
+      }
+    },
+    "6": {
+      "circuit": "Imola Circuit",
+      "country": "Italy",
+      "countryCode": "it",
+      "flagFileName": "it.webp",
+      "settings": {
+        "course": {
+          "Aéro": {
+            "Aileron avant": 42,
+            "Aileron arrière": 36
+          },
+          "Transmission": {
+            "Différentiel d’accélération": 56,
+            "Différentiel de freinage": 50
+          },
+          "Géométrie": {
+            "Carrossage avant": -2.45,
+            "Carrossage arrière": -1.00,
+            "Ouverture avant": 0.07,
+            "Pincement arrière": 0.21
+          },
+          "Suspension": {
+            "Suspension avant": 24,
+            "Suspension arrière": 10,
+            "Barre anti-roulis avant": 6,
+            "Barre anti-roulis arrière": 3,
+            "Hauteur de caisse avant": 33,
+            "Hauteur de caisse arrière": 37
+          },
+          "Freins": {
+            "Pressions des freins": "96 %",
+            "Équilibrage des freins": "55 %"
+          },
+          "Pneus": {
+            "Pressions pneu avant droit": 22.5,
+            "pneu avant gauche": 22.5,
+          "Pressions pneu arrière droit": 20.2,
+          "Pressions pneu arrière gauche": 20.2
+        }
+      },
+      "qualification": {
+        "Aéro": {
+          "Aileron avant": 46,
+          "Aileron arrière": 40
+        },
+        "Transmission": {
+          "Différentiel d’accélération": 60,
+          "Différentiel de freinage": 54
+        },
+        "Géométrie": {
+          "Carrossage avant": -2.65,
+          "Carrossage arrière": -1.15,
+          "Ouverture avant": 0.05,
+          "Pincement arrière": 0.19
+        },
+        "Suspension": {
+          "Suspension avant": 26,
+          "Suspension arrière": 11,
+          "Barre anti-roulis avant": 7,
+          "Barre anti-roulis arrière": 3,
+          "Hauteur de caisse avant": 31,
+          "Hauteur de caisse arrière": 35
+        },
+        "Freins": {
+          "Pressions des freins": "98 %",
+          "Équilibrage des freins": "56 %"
+        },
+        "Pneus": {
+          "Pressions pneu avant droit": 22.8,
+          "Pressions pneu avant gauche": 22.8,
+          "Pressions pneu arrière droit": 20.4,
+          "Pressions pneu arrière gauche": 20.4
+        }
+      }
+    }
+  },
+  "7": {
+    "circuit": "Circuit de Monaco",
+    "country": "Monaco",
+    "countryCode": "mc",
+    "flagFileName": "mc.png",
+    "settings": {
+      "course": {
+        "Aéro": {
+          "Aileron avant": 50,
+          "Aileron arrière": 50
+        },
+        "Transmission": {
+          "Différentiel d’accélération": 52,
+          "Différentiel de freinage": 50
+        },
+        "Géométrie": {
+          "Carrossage avant": -2.80,
+          "Carrossage arrière": -1.30,
+          "Ouverture avant": 0.03,
+          "Pincement arrière": 0.23
+        },
+        "Suspension": {
+          "Suspension avant": 28,
+          "Suspension arrière": 12,
+          "Barre anti-roulis avant": 8,
+          "Barre anti-roulis arrière": 4,
+          "Hauteur de caisse avant": 35,
+          "Hauteur de caisse arrière": 39
+        },
+        "Freins": {
+          "Pressions des freins": "98 %",
+          "Équilibrage des freins": "56 %"
+        },
+        "Pneus": {
+          "Pressions pneu avant droit": 22.4,
+          "Pressions pneu avant gauche": 22.4,
+          "Pressions pneu arrière droit": 20.1,
+          "Pressions pneu arrière gauche": 20.1
+        }
+      },
+      "qualification": {
+        "Aéro": {
+          "Aileron avant": 50,
+          "Aileron arrière": 50
+        },
+        "Transmission": {
+          "Différentiel d’accélération": 56,
+          "Différentiel de freinage": 54
+        },
+        "Géométrie": {
+          "Carrossage avant": -3.00,
+          "Carrossage arrière": -1.45,
+          "Ouverture avant": 0.01,
+          "Pincement arrière": 0.21
+        },
+        "Suspension": {
+          "Suspension avant": 30,
+          "Suspension arrière": 13,
+          "Barre anti-roulis avant": 9,
+          "Barre anti-roulis arrière": 4,
+          "Hauteur de caisse avant": 33,
+          "Hauteur de caisse arrière": 37
+        },
+        "Freins": {
+          "Pressions des freins": "100 %",
+          "Équilibrage des freins": "57 %"
+        },
+        "Pneus": {
+          "Pressions pneu avant droit": 22.7,
+          "Pressions pneu avant gauche": 22.7,
+          "Pressions pneu arrière droit": 20.3,
+          "Pressions pneu arrière gauche": 20.3
+        }
+      }
+    }
+  },
+  "8": {
+    "circuit": "Circuit de Barcelona-Catalunya",
+    "country": "Spain",
+    "countryCode": "es",
+    "flagFileName": "es.webp",
+    "settings": {
+      "course": {
+        "Aéro": {
+          "Aileron avant": 40,
+          "Aileron arrière": 34
+        },
+        "Transmission": {
+          "Différentiel d’accélération": 62,
+          "Différentiel de freinage": 56
+        },
+        "Géométrie": {
+          "Carrossage avant": -2.50,
+          "Carrossage arrière": -1.10,
+          "Ouverture avant": 0.07,
+          "Pincement arrière": 0.20
+        },
+        "Suspension": {
+          "Suspension avant": 23,
+          "Suspension arrière": 9,
+          "Barre anti-roulis avant": 5,
+          "Barre anti-roulis arrière": 2,
+          "Hauteur de caisse avant": 32,
+          "Hauteur de caisse arrière": 36
+        },
+        "Freins": {
+          "Pressions des freins": "96 %",
+          "Équilibrage des freins": "54 %"
+        },
+        "Pneus": {
+          "Pressions pneu avant droit": 22.7,
+          "Pressions pneu avant gauche": 22.7,
+          "Pressions pneu arrière droit": 20.4,
+          "Pressions pneu arrière gauche": 20.4
+        }
+      },
+      "qualification": {
+        "Aéro": {
+          "Aileron avant": 44,
+          "Aileron arrière": 38
+        },
+        "Transmission": {
+          "Différentiel d’accélération": 66,
+          "Différentiel de freinage": 60
+        },
+        "Géométrie": {
+          "Carrossage avant": -2.70,
+          "Carrossage arrière": -1.25,
+          "Ouverture avant": 0.05,
+          "Pincement arrière": 0.18
+        },
+        "Suspension": {
+          "Suspension avant": 25,
+          "Suspension arrière": 10,
+          "Barre anti-roulis avant": 6,
+          "Barre anti-roulis arrière": 2,
+          "Hauteur de caisse avant": 30,
+          "Hauteur de caisse arrière": 34
+        },
+        "Freins": {
+          "Pressions des freins": "98 %",
+          "Équilibrage des freins": "55 %"
+        },
+        "Pneus": {
+          "Pressions pneu avant droit": 23.0,
+          "Pressions pneu avant gauche": 23.0,
+          "Pressions pneu arrière droit": 20.6,
+          "Pressions pneu arrière gauche": 20.6
+        }
+      }
+    }
+  },
+  "9": {
+    "circuit": "Circuit Gilles Villeneuve",
+    "country": "Canada",
+    "countryCode": "ca",
+    "flagFileName": "ca.png",
+    "settings": {
+      "course": {
+        "Aéro": {
+          "Aileron avant": 32,
+          "Aileron arrière": 26
+        },
+        "Transmission": {
+          "Différentiel d’accélération": 70,
+          "Différentiel de freinage": 62
+        },
+        "Géométrie": {
+          "Carrossage avant": -2.70,
+          "Carrossage arrière": -1.20,
+          "Ouverture avant": 0.04,
+          "Pincement arrière": 0.18
+        },
+        "Suspension": {
+          "Suspension avant": 19,
+          "Suspension arrière": 7,
+          "Barre anti-roulis avant": 3,
+          "Barre anti-roulis arrière": 1,
+          "Hauteur de caisse avant": 29,
+          "Hauteur de caisse arrière": 33
+        },
+        "Freins": {
+          "Pressions des freins": "93 %",
+          "Équilibrage des freins": "51 %"
+        },
+        "Pneus": {
+          "Pressions pneu avant droit": 23.0,
+          "Pressions pneu avant gauche": 23.0,
+          "Pressions pneu arrière droit": 20.7,
+          "Pressions pneu arrière gauche": 20.7
+        }
+      },
+      "qualification": {
+        "Aéro": {
+          "Aileron avant": 36,
+          "Aileron arrière": 30
+        },
+        "Transmission": {
+          "Différentiel d’accélération": 74,
+          "Différentiel de freinage": 66
+        },
+        "Géométrie": {
+          "Carrossage avant": -2.90,
+          "Carrossage arrière": -1.35,
+          "Ouverture avant": 0.02,
+          "Pincement arrière": 0.16
+        },
+        "Suspension": {
+          "Suspension avant": 21,
+          "Suspension arrière": 8,
+          "Barre anti-roulis avant": 4,
+          "Barre anti-roulis arrière": 1,
+          "Hauteur de caisse avant": 27,
+          "Hauteur de caisse arrière": 31
+        },
+        "Freins": {
+          "Pressions des freins": "96 %",
+          "Équilibrage des freins": "52 %"
+        },
+        "Pneus": {
+          "Pressions pneu avant droit": 23.3,
+          "Pressions pneu avant gauche": 23.3,
+          "Pressions pneu arrière droit": 20.9,
+          "Pressions pneu arrière gauche": 20.9
+        }
+      }
+    }
+  },
+  "10": {
+    "circuit": "Red Bull Ring",
+    "country": "Austria",
+    "countryCode": "at",
+    "flagFileName": "at.png",
+    "settings": {
+      "course": {
+        "Aéro": {
+          "Aileron avant": 38,
+          "Aileron arrière": 32
+        },
+        "Transmission": {
+          "Différentiel d’accélération": 64,
+          "Différentiel de freinage": 57
+        },
+        "Géométrie": {
+          "Carrossage avant": -2.40,
+          "Carrossage arrière": -1.00,
+          "Ouverture avant": 0.08,
+          "Pincement arrière": 0.22
+        },
+        "Suspension": {
+          "Suspension avant": 22,
+          "Suspension arrière": 8,
+          "Barre anti-roulis avant": 4,
+          "Barre anti-roulis arrière": 2,
+          "Hauteur de caisse avant": 31,
+          "Hauteur de caisse arrière": 35
+        },
+        "Freins": {
+          "Pressions des freins": "95 %",
+          "Équilibrage des freins": "53 %"
+        },
+        "Pneus": {
+          "Pressions pneu avant droit": 22.8,
+          "Pressions pneu avant gauche": 22.8,
+          "Pressions pneu arrière droit": 20.5,
+          "Pressions pneu arrière gauche": 20.5
+        }
+      },
+      "qualification": {
+        "Aéro": {
+          "Aileron avant": 42,
+          "Aileron arrière": 36
+        },
+        "Transmission": {
+          "Différentiel d’accélération": 68,
+          "Différentiel de freinage": 61
+        },
+        "Géométrie": {
+          "Carrossage avant": -2.60,
+          "Carrossage arrière": -1.15,
+          "Ouverture avant": 0.06,
+          "Pincement arrière": 0.20
+        },
+        "Suspension": {
+          "Suspension avant": 24,
+          "Suspension arrière": 9,
+          "Barre anti-roulis avant": 5,
+          "Barre anti-roulis arrière": 2,
+          "Hauteur de caisse avant": 29,
+          "Hauteur de caisse arrière": 33
+        },
+        "Freins": {
+          "Pressions des freins": "97 %",
+          "Équilibrage des freins": "54 %"
+        },
+        "Pneus": {
+          "Pressions pneu avant droit": 23.1,
+          "Pressions pneu avant gauche": 23.1,
+          "Pressions pneu arrière droit": 20.7,
+          "Pressions pneu arrière gauche": 20.7
+        }
+      }
+    }
+  },
+  "11": {
+    "circuit": "Silverstone Circuit",
+    "country": "United Kingdom",
+    "countryCode": "gb",
+    "flagFileName": "uk.webp",
+    "settings": {
+      "course": {
+        "Aéro": {
+          "Aileron avant": 40,
+          "Aileron arrière": 34
+        },
+        "Transmission": {
+          "Différentiel d’accélération": 66,
+          "Différentiel de freinage": 59
+        },
+        "Géométrie": {
+          "Carrossage avant": -2.60,
+          "Carrossage arrière": -1.15,
+          "Ouverture avant": 0.05,
+          "Pincement arrière": 0.19
+        },
+        "Suspension": {
+          "Suspension avant": 23,
+          "Suspension arrière": 9,
+          "Barre anti-roulis avant": 5,
+          "Barre anti-roulis arrière": 2,
+          "Hauteur de caisse avant": 31,
+          "Hauteur de caisse arrière": 35
+        },
+        "Freins": {
+          "Pressions des freins": "95 %",
+          "Équilibrage des freins": "54 %"
+        },
+        "Pneus": {
+          "Pressions pneu avant droit": 22.7,
+          "Pressions pneu avant gauche": 22.7,
+          "Pressions pneu arrière droit": 20.4,
+          "Pressions pneu arrière gauche": 20.4
+        }
+      },
+      "qualification": {
+        "Aéro": {
+          "Aileron avant": 44,
+          "Aileron arrière": 38
+        },
+        "Transmission": {
+          "Différentiel d’accélération": 70,
+          "Différentiel de freinage": 63
+        },
+        "Géométrie": {
+          "Carrossage avant": -2.80,
+          "Carrossage arrière": -1.30,
+          "Ouverture avant": 0.03,
+          "Pincement arrière": 0.17
+        },
+        "Suspension": {
+          "Suspension avant": 25,
+          "Suspension arrière": 10,
+          "Barre anti-roulis avant": 6,
+          "Barre anti-roulis arrière": 2,
+          "Hauteur de caisse avant": 29,
+          "Hauteur de caisse arrière": 33
+        },
+        "Freins": {
+          "Pressions des freins": "97 %",
+          "Équilibrage des freins": "55 %"
+        },
+        "Pneus": {
+          "Pressions pneu avant droit": 23.0,
+          "Pressions pneu avant gauche": 23.0,
+          "Pressions pneu arrière droit": 20.6,
+          "Pressions pneu arrière gauche": 20.6
+        }
+      }
+    }
+  },
+  "12": {
+    "circuit": "Hungaroring",
+    "country": "Hungary",
+    "countryCode": "hu",
+    "flagFileName": "hu.png",
+    "settings": {
+      "course": {
+        "Aéro": {
+          "Aileron avant": 46,
+          "Aileron arrière": 40
+        },
+        "Transmission": {
+          "Différentiel d’accélération": 54,
+          "Différentiel de freinage": 50
+        },
+        "Géométrie": {
+          "Carrossage avant": -2.70,
+          "Carrossage arrière": -1.20,
+          "Ouverture avant": 0.06,
+          "Pincement arrière": 0.22
+        },
+        "Suspension": {
+          "Suspension avant": 26,
+          "Suspension arrière": 11,
+          "Barre anti-roulis avant": 7,
+          "Barre anti-roulis arrière": 3,
+          "Hauteur de caisse avant": 34,
+          "Hauteur de caisse arrière": 38
+        },
+        "Freins": {
+          "Pressions des freins": "97 %",
+          "Équilibrage des freins": "55 %"
+        },
+        "Pneus": {
+          "Pressions pneu avant droit": 22.5,
+          "Pressions pneu avant gauche": 22.5,
+          "Pressions pneu arrière droit": 20.2,
+          "Pressions pneu arrière gauche": 20.2
+        }
+      },
+      "qualification": {
+        "Aéro": {
+          "Aileron avant": 50,
+          "Aileron arrière": 44
+        },
+        "Transmission": {
+          "Différentiel d’accélération": 58,
+          "Différentiel de freinage": 54
+        },
+        "Géométrie": {
+          "Carrossage avant": -2.90,
+          "Carrossage arrière": -1.35,
+          "Ouverture avant": 0.04,
+          "Pincement arrière": 0.20
+        },
+        "Suspension": {
+          "Suspension avant": 28,
+          "Suspension arrière": 12,
+          "Barre anti-roulis avant": 8,
+          "Barre anti-roulis arrière": 3,
+          "Hauteur de caisse avant": 32,
+          "Hauteur de caisse arrière": 36
+        },
+        "Freins": {
+          "Pressions des freins": "99 %",
+          "Équilibrage des freins": "56 %"
+        },
+        "Pneus": {
+          "Pressions pneu avant droit": 22.8,
+          "Pressions pneu avant gauche": 22.8,
+          "Pressions pneu arrière droit": 20.4,
+          "Pressions pneu arrière gauche": 20.4
+        }
+      }
+    }
+  },
+  "13": {
+    "circuit": "Circuit de Spa-Francorchamps",
+    "country": "Belgium",
+    "countryCode": "be",
+    "flagFileName": "be.png",
+    "settings": {
+      "course": {
+        "Aéro": {
+          "Aileron avant": 30,
+          "Aileron arrière": 24
+        },
+        "Transmission": {
+          "Différentiel d’accélération": 74,
+          "Différentiel de freinage": 64
+        },
+        "Géométrie": {
+          "Carrossage avant": -2.75,
+          "Carrossage arrière": -1.25,
+          "Ouverture avant": 0.03,
+          "Pincement arrière": 0.17
+        },
+        "Suspension": {
+          "Suspension avant": 18,
+          "Suspension arrière": 6,
+          "Barre anti-roulis avant": 3,
+          "Barre anti-roulis arrière": 1,
+          "Hauteur de caisse avant": 28,
+          "Hauteur de caisse arrière": 32
+        },
+        "Freins": {
+          "Pressions des freins": "93 %",
+          "Équilibrage des freins": "52 %"
+        },
+        "Pneus": {
+          "Pressions pneu avant droit": 23.0,
+          "Pressions pneu avant gauche": 23.0,
+          "Pressions pneu arrière droit": 20.7,
+          "Pressions pneu arrière gauche": 20.7
+        }
+      },
+      "qualification": {
+        "Aéro": {
+          "Aileron avant": 34,
+          "Aileron arrière": 28
+        },
+        "Transmission": {
+          "Différentiel d’accélération": 78,
+          "Différentiel de freinage": 68
+        },
+        "Géométrie": {
+          "Carrossage avant": -2.95,
+          "Carrossage arrière": -1.40,
+          "Ouverture avant": 0.01,
+          "Pincement arrière": 0.15
+        },
+        "Suspension": {
+          "Suspension avant": 20,
+          "Suspension arrière": 7,
+          "Barre anti-roulis avant": 4,
+          "Barre anti-roulis arrière": 1,
+          "Hauteur de caisse avant": 26,
+          "Hauteur de caisse arrière": 30
+        },
+        "Freins": {
+          "Pressions des freins": "96 %",
+          "Équilibrage des freins": "53 %"
+        },
+        "Pneus": {
+          "Pressions pneu avant droit": 23.3,
+          "Pressions pneu avant gauche": 23.3,
+          "Pressions pneu arrière droit": 20.9,
+          "Pressions pneu arrière gauche": 20.9
+        }
+      }
+    }
+  },
+  "14": {
+    "circuit": "Zandvoort Circuit",
+    "country": "Netherlands",
+    "countryCode": "nl",
+    "flagFileName": "nl.png",
+    "settings": {
+      "course": {
+        "Aéro": {
+          "Aileron avant": 44,
+          "Aileron arrière": 38
+        },
+        "Transmission": {
+          "Différentiel d’accélération": 56,
+          "Différentiel de freinage": 52
+        },
+        "Géométrie": {
+          "Carrossage avant": -2.65,
+          "Carrossage arrière": -1.15,
+          "Ouverture avant": 0.07,
+          "Pincement arrière": 0.21
+        },
+        "Suspension": {
+          "Suspension avant": 25,
+          "Suspension arrière": 10,
+          "Barre anti-roulis avant": 6,
+          "Barre anti-roulis arrière": 3,
+          "Hauteur de caisse avant": 33,
+          "Hauteur de caisse arrière": 37
+        },
+        "Freins": {
+          "Pressions des freins": "96 %",
+          "Équilibrage des freins": "54 %"
+        },
+        "Pneus": {
+          "Pressions pneu avant droit": 22.6,
+          "Pressions pneu avant gauche": 22.6,
+          "Pressions pneu arrière droit": 20.3,
+          "Pressions pneu arrière gauche": 20.3
+        }
+      },
+      "qualification": {
+        "Aéro": {
+          "Aileron avant": 48,
+          "Aileron arrière": 42
+        },
+        "Transmission": {
+          "Différentiel d’accélération": 60,
+          "Différentiel de freinage": 56
+        },
+        "Géométrie": {
+          "Carrossage avant": -2.85,
+          "Carrossage arrière": -1.30,
+          "Ouverture avant": 0.05,
+          "Pincement arrière": 0.19
+        },
+        "Suspension": {
+          "Suspension avant": 27,
+          "Suspension arrière": 11,
+          "Barre anti-roulis avant": 7,
+          "Barre anti-roulis arrière": 3,
+          "Hauteur de caisse avant": 31,
+          "Hauteur de caisse arrière": 35
+        },
+        "Freins": {
+          "Pressions des freins": "98 %",
+          "Équilibrage des freins": "55 %"
+        },
+        "Pneus": {
+          "Pressions pneu avant droit": 22.9,
+          "Pressions pneu avant gauche": 22.9,
+          "Pressions pneu arrière droit": 20.5,
+          "Pressions pneu arrière gauche": 20.5
+        }
+      }
+    }
+  },
+  "15": {
+    "circuit": "Monza Circuit",
+    "country": "Italy",
+    "countryCode": "it",
+    "flagFileName": "it.webp",
+    "settings": {
+      "course": {
+        "Aéro": {
+          "Aileron avant": 24,
+          "Aileron arrière": 18
+        },
+        "Transmission": {
+          "Différentiel d’accélération": 80,
+          "Différentiel de freinage": 70
+        },
+        "Géométrie": {
+          "Carrossage avant": -2.90,
+          "Carrossage arrière": -1.40,
+          "Ouverture avant": 0.02,
+          "Pincement arrière": 0.16
+        },
+        "Suspension": {
+          "Suspension avant": 16,
+          "Suspension arrière": 4,
+          "Barre anti-roulis avant": 2,
+          "Barre anti-roulis arrière": 1,
+          "Hauteur de caisse avant": 26,
+          "Hauteur de caisse arrière": 30
+        },
+        "Freins": {
+          "Pressions des freins": "92 %",
+          "Équilibrage des freins": "51 %"
+        },
+        "Pneus": {
+          "Pressions pneu avant droit": 23.2,
+          "Pressions pneu avant gauche": 23.2,
+          "Pressions pneu arrière droit": 20.9,
+          "Pressions pneu arrière gauche": 20.9
+        }
+      },
+      "qualification": {
+        "Aéro": {
+          "Aileron avant": 28,
+          "Aileron arrière": 22
+        },
+        "Transmission": {
+          "Différentiel d’accélération": 84,
+          "Différentiel de freinage": 74
+        },
+        "Géométrie": {
+          "Carrossage avant": -3.10,
+          "Carrossage arrière": -1.55,
+          "Ouverture avant": 0.00,
+          "Pincement arrière": 0.14
+        },
+        "Suspension": {
+          "Suspension avant": 18,
+          "Suspension arrière": 5,
+          "Barre anti-roulis avant": 3,
+          "Barre anti-roulis arrière": 1,
+          "Hauteur de caisse avant": 24,
+          "Hauteur de caisse arrière": 28
+        },
+        "Freins": {
+          "Pressions des freins": "95 %",
+          "Équilibrage des freins": "52 %"
+        },
+        "Pneus": {
+          "Pressions pneu avant droit": 23.5,
+          "Pressions pneu avant gauche": 23.5,
+          "Pressions pneu arrière droit": 21.1,
+          "Pressions pneu arrière gauche": 21.1
+        }
+      }
+    }
+  },
+  "16": {
+    "circuit": "Marina Bay Street Circuit",
+    "country": "Singapore",
+    "countryCode": "sg",
+    "flagFileName": "sg.jpg",
+    "settings": {
+      "course": {
+        "Aéro": {
+          "Aileron avant": 48,
+          "Aileron arrière": 46
+        },
+        "Transmission": {
+          "Différentiel d’accélération": 50,
+          "Différentiel de freinage": 54
+        },
+        "Géométrie": {
+          "Carrossage avant": -2.70,
+          "Carrossage arrière": -1.10,
+          "Ouverture avant": 0.05,
+          "Pincement arrière": 0.20
+        },
+        "Suspension": {
+          "Suspension avant": 27,
+          "Suspension arrière": 11,
+          "Barre anti-roulis avant": 7,
+          "Barre anti-roulis arrière": 3,
+          "Hauteur de caisse avant": 34,
+          "Hauteur de caisse arrière": 38
+        },
+        "Freins": {
+          "Pressions des freins": "97 %",
+          "Équilibrage des freins": "54 %"
+        },
+        "Pneus": {
+          "Pressions pneu avant droit": 22.5,
+          "Pressions pneu avant gauche": 22.5,
+          "Pressions pneu arrière droit": 20.2,
+          "Pressions pneu arrière gauche": 20.2
+        }
+      },
+      "qualification": {
+        "Aéro": {
+          "Aileron avant": 50,
+          "Aileron arrière": 50
+        },
+        "Transmission": {
+          "Différentiel d’accélération": 54,
+          "Différentiel de freinage": 58
+        },
+        "Géométrie": {
+          "Carrossage avant": -2.90,
+          "Carrossage arrière": -1.25,
+          "Ouverture avant": 0.03,
+          "Pincement arrière": 0.18
+        },
+        "Suspension": {
+          "Suspension avant": 29,
+          "Suspension arrière": 12,
+          "Barre anti-roulis avant": 8,
+          "Barre anti-roulis arrière": 3,
+          "Hauteur de caisse avant": 32,
+          "Hauteur de caisse arrière": 36
+        },
+        "Freins": {
+          "Pressions des freins": "100 %",
+          "Équilibrage des freins": "56 %"
+        },
+        "Pneus": {
+          "Pressions pneu avant droit": 22.8,
+          "Pressions pneu avant gauche": 22.8,
+          "Pressions pneu arrière droit": 20.4,
+          "Pressions pneu arrière gauche": 20.4
+        }
+      }
+    }
+  },
+  "17": {
+    "circuit": "Suzuka International Racing Course",
+    "country": "Japan",
+    "countryCode": "jp",
+    "flagFileName": "jp.png",
+    "settings": {
+      "course": {
+        "Aéro": {
+          "Aileron avant": 42,
+          "Aileron arrière": 36
+        },
+        "Transmission": {
+          "Différentiel d’accélération": 60,
+          "Différentiel de freinage": 55
+        },
+        "Géométrie": {
+          "Carrossage avant": -2.55,
+          "Carrossage arrière": -1.10,
+          "Ouverture avant": 0.06,
+          "Pincement arrière": 0.20
+        },
+        "Suspension": {
+          "Suspension avant": 24,
+          "Suspension arrière": 10,
+          "Barre anti-roulis avant": 6,
+          "Barre anti-roulis arrière": 3,
+          "Hauteur de caisse avant": 33,
+          "Hauteur de caisse arrière": 37
+        },
+        "Freins":{
+        "Pressions des freins": "96 %",
+          "Équilibrage des freins": "54 %"
+        },
+        "Pneus": {
+          "Pressions pneu avant droit": 22.6,
+          "Pressions pneu avant gauche": 22.6,
+          "Pressions pneu arrière droit": 20.3,
+          "Pressions pneu arrière gauche": 20.3
+        }
+      },
+      "qualification": {
+        "Aéro": {
+          "Aileron avant": 46,
+          "Aileron arrière": 40
+        },
+        "Transmission": {
+          "Différentiel d’accélération": 64,
+          "Différentiel de freinage": 59
+        },
+        "Géométrie": {
+          "Carrossage avant": -2.75,
+          "Carrossage arrière": -1.25,
+          "Ouverture avant": 0.04,
+          "Pincement arrière": 0.18
+        },
+        "Suspension": {
+          "Suspension avant": 26,
+          "Suspension arrière": 11,
+          "Barre anti-roulis avant": 7,
+          "Barre anti-roulis arrière": 3,
+          "Hauteur de caisse avant": 31,
+          "Hauteur de caisse arrière": 35
+        },
+        "Freins": {
+          "Pressions des freins": "98 %",
+          "Équilibrage des freins": "55 %"
+        },
+        "Pneus": {
+          "Pressions pneu avant droit": 22.9,
+          "Pressions pneu avant gauche": 22.9,
+          "Pressions pneu arrière droit": 20.5,
+          "Pressions pneu arrière gauche": 20.5
+        }
+      }
+    }
+  },
+  "18": {
+    "circuit": "Losail International Circuit",
+    "country": "Qatar",
+    "countryCode": "qa",
+    "flagFileName": "qa.png",
+    "settings": {
+      "course": {
+        "Aéro": {
+          "Aileron avant": 38,
+          "Aileron arrière": 32
+        },
+        "Transmission": {
+          "Différentiel d’accélération": 68,
+          "Différentiel de freinage": 60
+        },
+        "Géométrie": {
+          "Carrossage avant": -2.60,
+          "Carrossage arrière": -1.15,
+          "Ouverture avant": 0.05,
+          "Pincement arrière": 0.19
+        },
+        "Suspension": {
+          "Suspension avant": 22,
+          "Suspension arrière": 8,
+          "Barre anti-roulis avant": 4,
+          "Barre anti-roulis arrière": 2,
+          "Hauteur de caisse avant": 31,
+          "Hauteur de caisse arrière": 35
+        },
+        "Freins": {
+          "Pressions des freins": "95 %",
+          "Équilibrage des freins": "53 %"
+        },
+        "Pneus": {
+          "Pressions pneu avant droit": 22.8,
+          "Pressions pneu avant gauche": 22.8,
+          "Pressions pneu arrière droit": 20.5,
+          "Pressions pneu arrière gauche": 20.5
+        }
+      },
+      "qualification": {
+        "Aéro": {
+          "Aileron avant": 42,
+          "Aileron arrière": 36
+        },
+        "Transmission": {
+          "Différentiel d’accélération": 72,
+          "Différentiel de freinage": 64
+        },
+        "Géométrie": {
+          "Carrossage avant": -2.80,
+          "Carrossage arrière": -1.30,
+          "Ouverture avant": 0.03,
+          "Pincement arrière": 0.17
+        },
+        "Suspension": {
+          "Suspension avant": 24,
+          "Suspension arrière": 9,
+          "Barre anti-roulis avant": 5,
+          "Barre anti-roulis arrière": 2,
+          "Hauteur de caisse avant": 29,
+          "Hauteur de caisse arrière": 33
+        },
+        "Freins": {
+          "Pressions des freins": "97 %",
+          "Équilibrage des freins": "54 %"
+        },
+        "Pneus": {
+          "Pressions pneu avant droit": 23.1,
+          "Pressions pneu avant gauche": 23.1,
+          "Pressions pneu arrière droit": 20.7,
+          "Pressions pneu arrière gauche": 20.7
+        }
+      }
+    }
+  },
+  "19": {
+    "circuit": "Circuit of the Americas",
+    "country": "United States",
+    "countryCode": "us",
+    "flagFileName": "usa.png",
+    "settings": {
+      "course": {
+        "Aéro": {
+          "Aileron avant": 40,
+          "Aileron arrière": 34
+        },
+        "Transmission": {
+          "Différentiel d’accélération": 64,
+          "Différentiel de freinage": 58
+        },
+        "Géométrie": {
+          "Carrossage avant": -2.50,
+          "Carrossage arrière": -1.05,
+          "Ouverture avant": 0.07,
+          "Pincement arrière": 0.21
+        },
+        "Suspension": {
+          "Suspension avant": 23,
+          "Suspension arrière": 9,
+          "Barre anti-roulis avant": 5,
+          "Barre anti-roulis arrière": 2,
+          "Hauteur de caisse avant": 32,
+          "Hauteur de caisse arrière": 36
+        },
+        "Freins": {
+          "Pressions des freins": "96 %",
+          "Équilibrage des freins": "54 %"
+        },
+        "Pneus": {
+          "Pressions pneu avant droit": 22.7,
+          "Pressions pneu avant gauche": 22.7,
+          "Pressions pneu arrière droit": 20.4,
+          "Pressions pneu arrière gauche": 20.4
+        }
+      },
+      "qualification": {
+        "Aéro": {
+          "Aileron avant": 44,
+          "Aileron arrière": 38
+        },
+        "Transmission": {
+          "Différentiel d’accélération": 68,
+          "Différentiel de freinage": 62
+        },
+        "Géométrie": {
+          "Carrossage avant": -2.70,
+          "Carrossage arrière": -1.20,
+          "Ouverture avant": 0.05,
+          "Pincement arrière": 0.19
+        },
+        "Suspension": {
+          "Suspension avant": 25,
+          "Suspension arrière": 10,
+          "Barre anti-roulis avant": 6,
+          "Barre anti-roulis arrière": 2,
+          "Hauteur de caisse avant": 30,
+          "Hauteur de caisse arrière": 34
+        },
+        "Freins": {
+          "Pressions des freins": "98 %",
+          "Équilibrage des freins": "55 %"
+        },
+        "Pneus": {
+          "Pressions pneu avant droit": 23.0,
+          "Pressions pneu avant gauche": 23.0,
+          "Pressions pneu arrière droit": 20.6,
+          "Pressions pneu arrière gauche": 20.6
+        }
+      }
+    }
+  },
+  "20": {
+    "circuit": "Autódromo Hermanos Rodríguez",
+    "country": "Mexico",
+    "countryCode": "mx",
+    "flagFileName": "mx.png",
+    "settings": {
+      "course": {
+        "Aéro": {
+          "Aileron avant": 46,
+          "Aileron arrière": 40
+        },
+        "Transmission": {
+          "Différentiel d’accélération": 58,
+          "Différentiel de freinage": 53
+        },
+        "Géométrie": {
+          "Carrossage avant": -2.65,
+          "Carrossage arrière": -1.15,
+          "Ouverture avant": 0.06,
+          "Pincement arrière": 0.21
+        },
+        "Suspension": {
+          "Suspension avant": 25,
+          "Suspension arrière": 10,
+          "Barre anti-roulis avant": 6,
+          "Barre anti-roulis arrière": 3,
+          "Hauteur de caisse avant": 33,
+          "Hauteur de caisse arrière": 37
+        },
+        "Freins": {
+          "Pressions des freins": "97 %",
+          "Équilibrage des freins": "55 %"
+        },
+        "Pneus": {
+          "Pressions pneu avant droit": 22.5,
+          "Pressions pneu avant gauche": 22.5,
+          "Pressions pneu arrière droit": 20.2,
+          "Pressions pneu arrière gauche": 20.2
+        }
+      },
+      "qualification": {
+        "Aéro": {
+          "Aileron avant": 50,
+          "Aileron arrière": 44
+        },
+        "Transmission": {
+          "Différentiel d’accélération": 62,
+          "Différentiel de freinage": 57
+        },
+        "Géométrie": {
+          "Carrossage avant": -2.85,
+          "Carrossage arrière": -1.30,
+          "Ouverture avant": 0.04,
+          "Pincement arrière": 0.19
+        },
+        "Suspension": {
+          "Suspension avant": 27,
+          "Suspension arrière": 11,
+          "Barre anti-roulis avant": 7,
+          "Barre anti-roulis arrière": 3,
+          "Hauteur de caisse avant": 31,
+          "Hauteur de caisse arrière": 35
+        },
+        "Freins": {
+          "Pressions des freins": "99 %",
+          "Équilibrage des freins": "56 %"
+        },
+        "Pneus": {
+          "Pressions pneu avant droit": 22.8,
+          "Pressions pneu avant gauche": 22.8,
+          "Pressions pneu arrière droit": 20.4,
+          "Pressions pneu arrière gauche": 20.4
+        }
+      }
+    }
+  },
+  "21": {
+    "circuit": "Interlagos Circuit",
+    "country": "Brazil",
+    "countryCode": "br",
+    "flagFileName": "br.png",
+    "settings": {
+      "course": {
+        "Aéro": {
+          "Aileron avant": 38,
+          "Aileron arrière": 32
+        },
+        "Transmission": {
+          "Différentiel d’accélération": 66,
+          "Différentiel de freinage": 59
+        },
+        "Géométrie": {
+          "Carrossage avant": -2.50,
+          "Carrossage arrière": -1.05,
+          "Ouverture avant": 0.07,
+          "Pincement arrière": 0.21
+        },
+        "Suspension": {
+          "Suspension avant": 22,
+          "Suspension arrière": 8,
+          "Barre anti-roulis avant": 4,
+          "Barre anti-roulis arrière": 2,
+          "Hauteur de caisse avant": 31,
+          "Hauteur de caisse arrière": 35
+        },
+        "Freins": {
+          "Pressions des freins": "95 %",
+          "Équilibrage des freins": "53 %"
+        },
+        "Pneus": {
+          "Pressions pneu avant droit": 22.7,
+          "Pressions pneu avant gauche": 22.7,
+          "Pressions pneu arrière droit": 20.4,
+          "Pressions pneu arrière gauche": 20.4
+        }
+      },
+      "qualification": {
+        "Aéro": {
+          "Aileron avant": 42,
+          "Aileron arrière": 36
+        },
+        "Transmission": {
+          "Différentiel d’accélération": 70,
+          "Différentiel de freinage": 63
+        },
+        "Géométrie": {
+          "Carrossage avant": -2.70,
+          "Carrossage arrière": -1.20,
+          "Ouverture avant": 0.05,
+          "Pincement arrière": 0.19
+        },
+        "Suspension": {
+          "Suspension avant": 24,
+          "Suspension arrière": 9,
+          "Barre anti-roulis avant": 5,
+          "Barre anti-roulis arrière": 2,
+          "Hauteur de caisse avant": 29,
+          "Hauteur de caisse arrière": 33
+        },
+        "Freins": {
+          "Pressions des freins": "97 %",
+          "Équilibrage des freins": "54 %"
+        },
+        "Pneus": {
+          "Pressions pneu avant droit": 23.0,
+          "Pressions pneu avant gauche": 23.0,
+          "Pressions pneu arrière droit": 20.6,
+          "Pressions pneu arrière gauche": 20.6
+        }
+      }
+    }
+  },
+  "22": {
+    "circuit": "Las Vegas Street Circuit",
+    "country": "United States",
+    "countryCode": "us",
+    "flagFileName": "usa.png",
+    "settings": {
+      "course": {
+        "Aéro": {
+          "Aileron avant": 30,
+          "Aileron arrière": 24
+        },
+        "Transmission": {
+          "Différentiel d’accélération": 76,
+          "Différentiel de freinage": 66
+        },
+        "Géométrie": {
+          "Carrossage avant": -2.80,
+          "Carrossage arrière": -1.30,
+          "Ouverture avant": 0.03,
+          "Pincement arrière": 0.17
+        },
+        "Suspension": {
+          "Suspension avant": 18,
+          "Suspension arrière": 6,
+          "Barre anti-roulis avant": 3,
+          "Barre anti-roulis arrière": 1,
+          "Hauteur de caisse avant": 27,
+          "Hauteur de caisse arrière": 31
+        },
+        "Freins": {
+          "Pressions des freins": "93 %",
+          "Équilibrage des freins": "52 %"
+        },
+        "Pneus": {
+          "Pressions pneu avant droit": 23.1,
+          "Pressions pneu avant gauche": 23.1,
+          "Pressions pneu arrière droit": 20.8,
+          "Pressions pneu arrière gauche": 20.8
+        }
+      },
+      "qualification": {
+        "Aéro": {
+          "Aileron avant": 34,
+          "Aileron arrière": 28
+        },
+        "Transmission": {
+          "Différentiel d’accélération": 80,
+          "Différentiel de freinage": 70
+        },
+        "Géométrie": {
+          "Carrossage avant": -3.00,
+          "Carrossage arrière": -1.45,
+          "Ouverture avant": 0.01,
+          "Pincement arrière": 0.15
+        },
+        "Suspension": {
+          "Suspension avant": 20,
+          "Suspension arrière": 7,
+          "Barre anti-roulis avant": 4,
+          "Barre anti-roulis arrière": 1,
+          "Hauteur de caisse avant": 25,
+          "Hauteur de caisse arrière": 29
+        },
+        "Freins": {
+        "Pressions des freins": "96 %",
+          "Équilibrage des freins": "53 %"
+        },
+        "Pneus": {
+          "Pressions pneu avant droit": 23.4,
+          "Pressions pneu avant gauche": 23.4,
+          "Pressions pneu arrière droit": 21.0,
+          "Pressions pneu arrière gauche": 21.0
+        }
+      }
+    }
+  },
+  "23": {
+    "circuit": "Yas Marina Circuit",
+    "country": "UAE",
+    "countryCode": "ae",
+    "flagFileName": "ae.png",
+    "settings": {
+      "course": {
+        "Aéro": {
+          "Aileron avant": 36,
+          "Aileron arrière": 30
+        },
+        "Transmission": {
+          "Différentiel d’accélération": 68,
+          "Différentiel de freinage": 60
+        },
+        "Géométrie": {
+          "Carrossage avant": -2.55,
+          "Carrossage arrière": -1.10,
+          "Ouverture avant": 0.06,
+          "Pincement arrière": 0.20
+        },
+        "Suspension": {
+          "Suspension avant": 22,
+          "Suspension arrière": 8,
+          "Barre anti-roulis avant": 4,
+          "Barre anti-roulis arrière": 2,
+          "Hauteur de caisse avant": 31,
+          "Hauteur de caisse arrière": 35
+        },
+        "Freins": {
+          "Pressions des freins": "95 %",
+          "Équilibrage des freins": "53 %"
+        },
+        "Pneus": {
+          "Pressions pneu avant droit": 22.8,
+          "Pressions pneu avant gauche": 22.8,
+          "Pressions pneu arrière droit": 20.5,
+          "Pressions pneu arrière gauche": 20.5
+        }
+      },
+      "qualification": {
+        "Aéro": {
+          "Aileron avant": 40,
+          "Aileron arrière": 34
+        },
+        "Transmission": {
+          "Différentiel d’accélération": 72,
+          "Différentiel de freinage": 64
+        },
+        "Géométrie": {
+          "Carrossage avant": -2.75,
+          "Carrossage arrière": -1.25,
+          "Ouverture avant": 0.04,
+          "Pincement arrière": 0.18
+        },
+        "Suspension": {
+          "Suspension avant": 24,
+          "Suspension arrière": 9,
+          "Barre anti-roulis avant": 5,
+          "Barre anti-roulis arrière": 2,
+          "Hauteur de caisse avant": 29,
+          "Hauteur de caisse arrière": 33
+        },
+        "Freins": {
+          "Pressions des freins": "97 %",
+          "Équilibrage des freins": "54 %"
+        },
+        "Pneus": {
+          "Pressions pneu avant droit": 23.1,
+          "Pressions pneu avant gauche": 23.1,
+          "Pressions pneu arrière droit": 20.7,
+          "Pressions pneu arrière gauche": 20.7
+        }
+      }
+    }
+  }
+}

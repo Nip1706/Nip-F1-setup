@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>F1 23 Setup Viewer - Connexion</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Titillium+Web:wght@300;400;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="style.css">
+  <link rel="stylesheet" href="auth.css">
+</head>
+<body>
+  <div class="header">
+    <div class="container">
+      <h1>F1 23 Setup Viewer</h1>
+    </div>
+  </div>
+
+  <div class="container">
+    <div class="auth-container">
+      <div class="auth-tabs">
+        <button class="auth-tab active" data-tab="login">Connexion</button>
+        <button class="auth-tab" data-tab="register">Inscription</button>
+      </div>
+      
+      <div class="auth-form-container">
+        <!-- Formulaire de connexion -->
+        <form id="loginForm" class="auth-form active">
+          <div class="form-group">
+            <label for="loginUsername">Nom d'utilisateur</label>
+            <input type="text" id="loginUsername" name="username" required autocomplete="username">
+          </div>
+          <div class="form-group">
+            <label for="loginPassword">Mot de passe</label>
+            <input type="password" id="loginPassword" name="password" required autocomplete="current-password">
+          </div>
+          <div class="form-actions">
+            <button type="submit" class="btn-primary">Se connecter</button>
+          </div>
+          <p class="message-error" id="loginError"></p>
+        </form>
+        
+        <!-- Formulaire d'inscription -->
+        <form id="registerForm" class="auth-form">
+          <div class="form-group">
+            <label for="registerUsername">Nom d'utilisateur</label>
+            <input type="text" id="registerUsername" name="username" required autocomplete="username">
+          </div>
+          <div class="form-group">
+            <label for="registerEmail">Email</label>
+            <input type="email" id="registerEmail" name="email" required autocomplete="email">
+          </div>
+          <div class="form-group">
+            <label for="registerPassword">Mot de passe</label>
+            <input type="password" id="registerPassword" name="password" required autocomplete="new-password" 
+            pattern="^(?=.*[a-z])(?=.*[A-Z])(?=.*\d)(?=.*[@$!%*?&])[A-Za-z\d@$!%*?&]{8,}$">
+            <p class="password-hint">Le mot de passe doit contenir au moins 8 caractères, une lettre majuscule, une lettre minuscule, un chiffre et un caractère spécial.</p>
+          </div>
+          <div class="form-group">
+            <label for="registerPasswordConfirm">Confirmer le mot de passe</label>
+            <input type="password" id="registerPasswordConfirm" name="passwordConfirm" required autocomplete="new-password">
+          </div>
+          <div class="form-group checkbox-group">
+            <input type="checkbox" id="termsAccept" name="termsAccept" required>
+            <label for="termsAccept">J'accepte les <a href="#" class="terms-link">conditions générales d'utilisation</a> et la <a href="#" class="terms-link">politique de confidentialité</a></label>
+          </div>
+          <div class="form-actions">
+            <button type="submit" class="btn-primary">S'inscrire</button>
+          </div>
+          <p class="message-error" id="registerError"></p>
+        </form>
+      </div>
+    </div>
+  </div>
+
+  <script src="auth.js"></script>
+</body>
+</html>
