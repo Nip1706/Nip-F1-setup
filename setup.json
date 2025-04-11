@@ -381,7 +381,7 @@
     },
     "6": {
       "circuit": "Imola Circuit",
-      "country": "Italy",
+      "country": "Italy (Imola)",
       "countryCode": "it",
       "flagFileName": "it.webp",
       "settings": {
@@ -414,7 +414,7 @@
           },
           "Pneus": {
             "Pressions pneu avant droit": 22.5,
-            "pneu avant gauche": 22.5,
+            "Pressions pneu avant gauche": 22.5,
           "Pressions pneu arrière droit": 20.2,
           "Pressions pneu arrière gauche": 20.2
         }
@@ -1065,7 +1065,7 @@
   },
   "15": {
     "circuit": "Monza Circuit",
-    "country": "Italy",
+    "country": "Italy (Monza)",
     "countryCode": "it",
     "flagFileName": "it.webp",
     "settings": {
